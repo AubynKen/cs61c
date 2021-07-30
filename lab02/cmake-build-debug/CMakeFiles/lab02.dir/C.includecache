@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pingleihe/Desktop/CS61C/lab02/list.c
+list.h
+/Users/pingleihe/Desktop/CS61C/lab02/list.h
+
+/Users/pingleihe/Desktop/CS61C/lab02/list.h
+stdlib.h
+-
+
+/Users/pingleihe/Desktop/CS61C/lab02/test_list.c
+stdio.h
+-
+list.h
+/Users/pingleihe/Desktop/CS61C/lab02/list.h
+
